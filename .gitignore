@@ -1,0 +1,6 @@
+# Ignore large raw dumps and local caches
+FootballDATA/
+*.tar
+*.7z
+*.gz
+*.bak
