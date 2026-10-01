@@ -6,3 +6,6 @@ FootballDATA/
 *.bak
 
 __pycache__/
+
+# FootyStats raw API responses (re-creatable, large)
+Data/Raw/footystats/_cache/
