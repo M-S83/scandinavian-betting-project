@@ -4,3 +4,5 @@ FootballDATA/
 *.7z
 *.gz
 *.bak
+
+__pycache__/
